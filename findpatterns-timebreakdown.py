@@ -1,6 +1,3 @@
-'''
-Chrysanthi Kosyfaki
-'''
 
 import sys
 import time
