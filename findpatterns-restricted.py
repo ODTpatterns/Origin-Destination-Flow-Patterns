@@ -1,6 +1,3 @@
-'''
-Chrysanthi Kosyfaki
-'''
 
 # code for restricted patterns
 # restricted means that origins can take atomic regions from a restricted domain (e.g. south Manhattan) 
