@@ -1,6 +1,6 @@
 Origin-Destination-Time Flow Patterns in Large Networks
 
-Chrysanthi Kosyfaki
+SIGMOD submission 2024
 
 Instructions for compiling and running the code
 1. To use the code, we will need two files: - a trips table and a neighborhood graph: 
