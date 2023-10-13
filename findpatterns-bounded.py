@@ -1,6 +1,4 @@
-'''
-Chrysanthi Kosyfaki
-'''
+
 # code for bounded patterns
 # bounded means that the size of an extended origin cannot be more than a maximum number of regions
 # e.g. the origin O of a pattern cannot grow to include more than 5 atomic regions
