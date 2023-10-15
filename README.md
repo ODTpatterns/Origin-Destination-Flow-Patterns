@@ -1,4 +1,4 @@
-Origin-Destination-Time Flow Patterns in Large Networks
+Generalized Origin-Destination-Time Flow Patterns
 
 SIGMOD submission 2024
 
